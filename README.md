@@ -1,7 +1,7 @@
 # Two_Dots
 Solve challenging puzzles by connecting the dots
 <br />
-![](board.png){:height="50%" width="50%"}
+![](board.png)
 
 ## Rules
 At the start of each game, the user can choose either to eliminate the targetted amount of dots within a 
