@@ -13,7 +13,8 @@ dot and a cell refers to the space occupied by a dot. In addition Row number inc
 when moving from top to bottom and column number increases when moving from left to right.
 
 ## How to run the game
-First run 'make' in current Two_Dots directly then run 'make demo'
+First run 'make' in current Two_Dots directory
+Then run 'make demo'
 
 ## Test files
 Run 'make test'
