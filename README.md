@@ -16,5 +16,5 @@ when moving from top to bottom and column number increases when moving from left
 First run 'make' in current Two_Dots directory
 Then run 'make demo'
 
-## Test files
+## Testing
 Run 'make test'
