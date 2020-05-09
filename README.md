@@ -9,3 +9,9 @@ not diagonally, dots directly above those eliminated dots will then drop down to
 gap. Throughout this specication document, each dot will be referred as to a colored
 dot and a cell refers to the space occupied by a dot. In addition Row number increases
 when moving from top to bottom and column number increases when moving from left to right.
+
+## How to run the game
+First run 'make' in current Two_Dots directly then run 'make demo'
+
+## Test files
+Run 'make test'
